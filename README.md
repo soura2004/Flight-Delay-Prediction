@@ -1,5 +1,3 @@
-# Flight-Delay-Prediction
-
 # ✈️ Flight Delay Analysis & Preprocessing (2016 U.S. Domestic Flights)
 
 This project performs exploratory data analysis and preprocessing on a real-world U.S. domestic flight dataset from 2016. The primary goal is to prepare the data for a future machine learning model that can predict flight delays upon arrival (`ARR_DEL15`).
