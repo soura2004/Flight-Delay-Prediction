@@ -98,3 +98,10 @@ Feel free to reach out for questions or contributions!
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+![Screenshot 2025-06-10 030152](https://github.com/user-attachments/assets/88d72f1f-a8d6-455e-908d-1134f73cbc5e)
+![Screenshot 2025-06-10 030212](https://github.com/user-attachments/assets/3589eaa9-3dcf-4b6d-8ed9-8f106f9d9f8f)
+![Screenshot 2025-06-10 030238](https://github.com/user-attachments/assets/a91a13ad-27cc-402d-aafa-f65ec8307d89)
+
+
+
